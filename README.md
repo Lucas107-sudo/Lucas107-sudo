@@ -1,5 +1,4 @@
 # Olá, eu sou Lucas Guimarães 👋
-![alt text](image-6.png)
 
 Sou **estudante de Engenharia de Software (2º período)** e estou construindo minha base em **programação e banco de dados**.
 Gosto de aprender na prática, com projetos reais, e **busco minha primeira oportunidade de estágio** na área de tecnologia.
